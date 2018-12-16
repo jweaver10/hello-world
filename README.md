@@ -1,5 +1,5 @@
 # hello-world
-repository descripotion
+repository description
 
 Hello!
 
